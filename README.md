@@ -68,26 +68,6 @@ Cognisense/
 <li>HTML, CSS, JavaScript</li>
 </ul>
 
-<hr>
-
-<h2>Installation</h2>
-
-<h3>Clone Repository</h3>
-<pre>git clone https://github.com/GazanfarAnsari10/Cognisense-A-Multi-Modal-Sentiment-Analyzer.git</pre>
-
-<h3>Create Virtual Environment</h3>
-<pre>python -m venv venv</pre>
-
-<h3>Activate Environment (Windows)</h3>
-<pre>venv\Scripts\activate</pre>
-
-<h3>Install Dependencies</h3>
-<pre>pip install -r requirements.txt</pre>
-
-<h3>Run Application</h3>
-<pre>python app.py</pre>
-
-<hr>
 
 <h2>How It Works</h2>
 <ul>
@@ -120,65 +100,4 @@ Cognisense/
 
 <hr>
 
-<b>Authors</b>
 
-<p>
-<b>Mohammad Gazanfar Ansari</b><br>
-B.E– Artificial Intelligence & Machine Learning
-<br>
-<a href="https://www.linkedin.com/in/mohammad-gazanfar-ansari" target="_blank">
-LinkedIn</a>
-&nbsp; | &nbsp;
-<a href="mailto:gazi.freestyle@gmail.com">
-Email</a>
-</p>
-
-
-<p>
-<b>Sachin Chandraprakash Kanojiya</b><br>
-B.E– Artificial Intelligence & Machine Learning
-<br>
-<a href="https://www.linkedin.com/in/sachin-kanojiya-5b8234372/" target="_blank">
-LinkedIn</a>
-&nbsp; | &nbsp;
-<a href="mailto:Sachinkanojiya647@gmail.com">
-Email</a>
-</p>
-
-<p>
-<b>Suyash vivek ketkar </b><br>
-B.E– Artificial Intelligence & Machine Learning
-<br>
-<a href="https://www.linkedin.com/in/suyashketkar/" target="_blank">
-LinkedIn</a>
-&nbsp; | &nbsp;
-<a href="mailto:suyashketkar@gmail.com">
-Email</a>
-
-<p>
-<b>Chhaya Achhelal Rajbhar </b><br>
-B.E– Artificial Intelligence & Machine Learning
-<br>
-<a href="https://www.linkedin.com/in/chhaya-rajbhar-663656349/" target="_blank">
-LinkedIn</a>
-&nbsp; | &nbsp;
-<a href="mailto:chhayarajbhar34@gmail.com">
-Email</a>
-</p>
-<!-- 
-<hr> -->
-
-<!-- <h2>Connect With Me </h2>
-
-<p>
-<a href="https://www.linkedin.com/in/mohammad-gazanfar-ansari" target="_blank">
-LinkedIn</a>
-&nbsp; | &nbsp;
-<a href="mailto:gazi.freestyle@gmail.com">
-Email</a>
-</p> -->
-
-<!-- <hr> -->
-
-<!-- <h2>License</h2> --><br>
-<p>This project is for academic and research purposes.</p><hr>
